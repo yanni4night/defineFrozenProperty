@@ -1,0 +1,2 @@
+# defineFrozenProperty
+Shortcut for defineProperty
