@@ -13,7 +13,7 @@
 
 module.exports = function defineFrozenProperty(object, key, value, enumerable) {
     Object.defineProperty(object, key, {
-        value,
+        value: value,
         writable: false,
         configurable: false,
         enumerable: !!enumerable
