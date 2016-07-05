@@ -1,0 +1,22 @@
+{
+  "name": "define-frozen-property",
+  "version": "0.1.0",
+  "description": "Shortcut for defineProperty",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint index.js && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yanni4night/defineFrozenProperty.git"
+  },
+  "keywords": [
+    "frozen",
+    "defineProperty"
+  ],
+  "author": "Yanni Nightingale <yanni4night@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanni4night/defineFrozenProperty/issues"
+  }
+}
